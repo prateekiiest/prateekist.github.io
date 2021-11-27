@@ -153,6 +153,6 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 For more info
 ------
 
-Check out my CV or [mail to me](prateekkol21@gmail.com)
+Check out my [CV](/files/MS_Resume.pdf) or [mail to me](prateekkol21@gmail.com)
 
 -----
