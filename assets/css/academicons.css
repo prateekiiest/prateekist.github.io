@@ -420,3 +420,11 @@
 .fa.fa-pull-right {
     margin-left: .3em;
 }
+
+#demobox {
+    overflow: hidden;
+    word-break: break-all;
+    background-color: #cfc;
+    padding: 10px;
+    border: 1px solid green;
+}
