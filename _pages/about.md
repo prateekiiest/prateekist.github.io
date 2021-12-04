@@ -75,9 +75,9 @@ Selected Publications
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
 <img src="/images/distributednodes.png" alt="drawing" style="width: 300px; height: 150px;"/>
-<div style="text-align: center; margin-left:12px; width: 420px">
+<div style="text-align: left; margin-left:12px; width: 420px">
 <div>Distributed Anomaly Detection in Edge Streams using Frequency based Sketch Datastructures
-</div><div><b>Prateek Chanda</b>, Malay Bhattacharya</div></div>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Bhattacharya</div><div style="margin-top : 10px"><ins>Under Review</ins> <b>VLDB 2021 (Full Paper)</b></div></div>
 </div>
 
 
