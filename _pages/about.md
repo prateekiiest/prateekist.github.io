@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Prateek, currently working as a Research Software Engineer at Microsoft Research India with [Dr. Amit Sharma](http://www.amitsharma.in/) where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with [Dr. Bryan Hooi](https://bhooi.github.io/) and [Siddharth Bhatia](https://www.comp.nus.edu.sg/~sbhatia/) as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins>.
+Hi, I am Prateek, currently working as a Research Software Engineer at Microsoft Research India with [Dr. Amit Sharma](http://www.amitsharma.in/) where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with [Prof. Malay Bhattacharya](https://www.isical.ac.in/~malaybhattacharyya/) as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>.
 
 My interests lie broadly in HCI (primarily Mental Health), Data Analytics and Mining as in large distributed platforms. I am also interested in interpretable ML, Recommender Systems and NLP.
 
