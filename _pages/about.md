@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Prateek, currently working as a Research Software Engineer at Microsoft Research India with [Dr. Amit Sharma](http://www.amitsharma.in/) where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with [Prof. Malay Bhattacharya](https://www.isical.ac.in/~malaybhattacharyya/) as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>.
+Hi, I am Prateek, currently working as a Research Software Engineer at Microsoft Research India with [Dr. Amit Sharma](http://www.amitsharma.in/) where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/) as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>.
 
 My interests lie broadly in HCI (primarily Mental Health), Data Analytics and Mining as in large distributed platforms. I am also interested in interpretable ML, Recommender Systems and NLP.
 
@@ -31,7 +31,7 @@ News
 - **[15/9/2021]** Selected for **AISTATS 2022 Mentorship Program**. Working with [Dr. Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/) from Microsoft Research NYC on <ins>Anomaly Detection in Large Data Streams</ins> using Game Theory and RL.
 - **[21/10/2021]** Paper on *Real time anomaly detection in Large Scale Distributed Systems* accepted at **ML for Systems @NeurIPS**
 - **[2/10/2021]** Paper on *Human Computation and CrowdSourcing for Earth* accepted at **AAAI HCOMP** (*Blue Sky Ideas*)
-- **[16/8/2021]** Selected as a mentee under AI for Science @NeurIPs workshop to work with [Prof. Malay Bhattacharya](https://www.isical.ac.in/~malaybhattacharyya/), Indian Statistical Institute.
+- **[16/8/2021]** Selected as a mentee under AI for Science @NeurIPs workshop to work with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/), Indian Statistical Institute.
 - **[12/7/2021]** Work on **MindNotes** (our work at Microsoft Research on building a socio-technical mental health platform) accepted at CSCW [*Demo Paper*]
 - **[24/4/2021]** Invited to be a Program Committe member for [Outlier Detection and Description Workshop](https://oddworkshop.github.io/) @KDD.
 
