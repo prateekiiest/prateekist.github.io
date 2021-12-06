@@ -57,7 +57,7 @@ Selected Publications
 <img src="/images/MotherEarth.jpg" alt="drawing" style="width: 200px; height: 150px;"/>
 <div style="text-align: left; margin-left:82px; width: 420px">
 <div style="font-style: italic">Human Computation and Crowdsourcing for Earth
-</div><div style="margin-top : 10px">Yasaman Rohanifar, Syed Ishtiaque Ahmed, Sharifa Sultana, <b>Prateek Chanda</b>, Malay Bhattacharya</div>
+</div><div style="margin-top : 10px">Yasaman Rohanifar, Syed Ishtiaque Ahmed, Sharifa Sultana, <b>Prateek Chanda</b>, Malay Bhattacharyya</div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI HCOMP</b></div>
 <div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
 </div>
@@ -106,7 +106,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <img src="/images/distributednodes.png" alt="drawing" style="width: 300px; height: 150px;"/>
 <div style="text-align: left; margin-left:12px; width: 420px">
 <div style="font-style: italic">Distributed Anomaly Detection in Edge Streams using Frequency based Sketch Datastructures
-</div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Bhattacharya</div>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Bhattacharyya</div>
 <div style="margin-top : 10px"><ins>Under Review</ins> <b>VLDB (Full Paper)</b></div>
 <div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
 </div>
