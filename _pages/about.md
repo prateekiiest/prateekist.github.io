@@ -16,6 +16,7 @@ My interests lie broadly in HCI (primarily Mental Health), Data Analytics and Mi
 
 Previously I have been fortunate to work with Complex Network Research Group at IIT Kharagpur with Dr. [Niloy Ganguly](https://scholar.google.com/citations?user=hCbFmUUAAAAJ&hl=en) and Dr. [Bivas Mitra](https://scholar.google.co.in/citations?user=mQ57itUAAAAJ&hl=en) as a research assistant and with Dr. [Ashish Ghosh](https://www.isical.ac.in/~ash/) at the Indian Statistical Institute. I did my undergraduate in Bachelors in Computer Science from [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/) where I did my undergraduate thesis on <ins>Game Theoretic based Community Detection</ins> with [Prof. Susanta Chakraborty](https://scholar.google.com/citations?user=ADJHcp0ar4sC&hl=en) and [Prof. Malay Kule](https://scholar.google.com/citations?user=TgQJmU0AAAAJ&hl=en)
 
+I have also been fortunate to work as a <ins>Summer of Code</ins> student under Google Open Source Program working on SunPy with a team of researchers and engineers at <ins>NASA Goddard Space Flight Center</ins>. *See below for publications*.
 
 
 <ins>Side Note</ins> : My Erdős Number = 5.
