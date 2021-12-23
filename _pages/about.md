@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Prateek, currently working at Microsoft Research India with [Dr. Amit Sharma](http://www.amitsharma.in/) where am I working on building socio-technical mental health platforms as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). I am also working with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/) as a research assistant on work related to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> <ins>and EHR analysis</ins>. I have also been working with [Prof. Bryan Hooi](https://bhooi.github.io/) at NUS as part of extended research assistantship on streaming algorithms and heavy-hitters.
 
-My interests lie broadly in HCI (primarily Mental Health), Data Analytics and Mining as in large distributed platforms. I am also interested in interpretable ML, Recommender Systems and NLP.
+My interests lie broadly in building socio-technical HCI systems, Data Analytics and Mining as in large distributed platforms. I am also interested in interpretable ML, Recommender Systems and NLP.
 
 ### Past Life 
 
@@ -27,6 +27,7 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 
 News
 ------
+- **[17/12/2021]** <ins>Bachelor Thesis</ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
 - **[30/10/2021]** Paper on *Reaching out : Towards a sustainable allocation strategy between users and therapists* accepted at **Machine Learning in Public Health Workshop @NeurIPS**
 - **[15/9/2021]** Selected for **AISTATS 2022 Mentorship Program**. Working with [Dr. Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/) from Microsoft Research NYC on <ins>Anomaly Detection in Large Data Streams</ins> using Game Theory and RL.
