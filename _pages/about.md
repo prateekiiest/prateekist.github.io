@@ -41,6 +41,8 @@ News
 Selected Publications
 ------
 
+_For complete list, check my Google Scholar Profile_
+
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
 <img src="/images/therapistuserneruips.png" alt="drawing" style="width: 280px; height: 150px;"/>
