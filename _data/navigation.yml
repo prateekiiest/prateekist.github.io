@@ -2,7 +2,13 @@
 main:
   - title: "Projects"
     url: /projects/
-    
+
+  - title: "Publications"
+    url : "#publications"
+
+  - title: "News"
+    url : "#news"  
+
   - title: "Talks"
     url: /talks/   
     
@@ -11,3 +17,4 @@ main:
     
   - title: "CV"
     url: /cv/
+

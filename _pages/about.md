@@ -20,7 +20,7 @@ Previously I have been fortunate to work with **Complex Network Research Group a
 I have also been fortunate to work as a <ins>Summer of Code</ins> student under Google Open Source Program working on SunPy with a team of researchers and engineers at <ins>NASA Goddard Space Flight Center</ins>. *See below for publications*.
 
 
-<ins>Side Note</ins> : My Erdős Number = 5.
+<ins>Side Note</ins> : My Erdős Number = **5**.
 
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
@@ -28,6 +28,7 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 
 News
 ------
+
 - **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
 - **[30/10/2021]** Paper on *Reaching out : Towards a sustainable allocation strategy between users and therapists* accepted at **Machine Learning in Public Health Workshop @NeurIPS**
@@ -39,11 +40,22 @@ News
 - **[24/4/2021]** Invited to be a Program Committe member for [Outlier Detection and Description Workshop](https://oddworkshop.github.io/) @KDD.
 
 
-Selected Publications
+Publications
 ------
 
 _For complete list, check my Google Scholar Profile_
 
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<img src="/images/community_detection_graph.png" alt="drawing" style="width: 280px; height: 150px;"/>
+<div style="text-align: left; margin-left:22px; width: 420px">
+<div style="font-style: italic">Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework</div><div style="margin-top : 10px"><b>Prateek Chanda and Susanta Chakraborty</b></div>
+<div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Machine Learning for Operations Research (ML4OR)</b></div>
+<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">Slides</a></div>
+</div>
+</div>
+
+-----------------------
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
 <img src="/images/therapistuserneruips.png" alt="drawing" style="width: 280px; height: 150px;"/>
@@ -107,6 +119,7 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 --------------
 
 
+
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
 <img src="/images/distributednodes.png" alt="drawing" style="width: 300px; height: 150px;"/>
 <div style="text-align: left; margin-left:12px; width: 420px">
@@ -154,6 +167,48 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 <div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
 </div>
 </div>
+
+
+
+---------------------
+
+
+Technical Reports
+------
+
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<div style="text-align: left; margin-left:12px; width: 100%">
+<div style="font-style: italic; font-family : Helvetica"><b>A Theoretical and Empirical Analysis of Metric Learning Algorithms</b>  <a href="files/metric-learning.pdf" style="padding-right:20px">Project Report</a>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>,Rahul Roy, Ashish Ghosh</div>
+<iframe src="files/metric-learning.pdf" frameborder="0" width="360" height="169" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5l_AR_z0zCsbdBaBhBwcxBVVjvCr5QDh2Ibgl55cPzCL_9LBK-maelVEM-hahZqsuZa7EfPd7B8LP/embed?start=true&loop=false&delayms=3000" frameborder="0" width="360" height="169" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+</div>
+
+
+-------------------
+
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<div style="text-align: left; margin-left:12px; width: 100%">
+<div style="font-style: italic; font-family : Helvetica"><b>Student Group Activity Recognition </b>  <a href="https://nbviewer.org/github/prateekiiest/Student-Group-Activity-Recognition/blob/master/InternshipDocs.ipynb#" style="padding-right:20px">Project Report</a>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>,Snigdha Das, Soumyajit Chatterjee, Sandip Chakraborty and Bivas Mitra</div>
+<iframe src="https://nbviewer.org/github/prateekiiest/Student-Group-Activity-Recognition/blob/master/InternshipDocs.ipynb#" frameborder="2" width="460" height="219" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfHd4LQ7Zxmo0NHzSa0w3NMfv6NJEcKsT_zcP2RIhGyfLInfotzPHv-PU_7GcDOaxSiQmwZUbCghWH/embed?start=true&loop=false&delayms=3000" frameborder="2" width="280" height="219" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 For more info
 ------
