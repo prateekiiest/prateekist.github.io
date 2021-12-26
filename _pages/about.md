@@ -176,7 +176,6 @@ Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop M
 Technical Reports
 ------
 
-ISI, IIT Kharagpur, First Year Paper, Final Year Paper, NUS heavy hitters
 
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
