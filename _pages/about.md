@@ -226,6 +226,6 @@ Technical Reports
 For more info
 ------
 
-Check out my [CV](/files/Prateek_Chanda_Resume_website.pdf) or [mail to me](prateekkol21@gmail.com)
+Check out my [CV](/files/Prateek_Chanda_Resume_website.pdf) or [mail to me](mailto:prateekkol21@gmail.com)
 
 -----
