@@ -215,7 +215,15 @@ Technical Reports
 
 
 
+--------------------------
 
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<div style="text-align: left; margin-left:12px; width: 100%">
+<div style="font-style: italic; font-family : Helvetica"><b>Community Detection in Static & Dynamic Networks using Game Theory </b>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Kule, Susanta Chakraborty</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyT5O1of5TjM3PlI07tdeB70dmnMGPOro1XZb5lBsi2clujGqmeaZRWl9WKAEkSCtOie0YjM8BaHWy/embed?start=true&loop=false&delayms=3000" frameborder="0" width="520" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+</div>
 
 
 
