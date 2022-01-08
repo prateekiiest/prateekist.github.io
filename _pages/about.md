@@ -45,7 +45,8 @@ News
 Publications
 ------
 
-_For complete list, check my Google Scholar Profile_
+
+You can also find my articles on <u><a href="https://scholar.google.co.in/citations?user=2CiQLkYAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.</u>
 
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
@@ -53,7 +54,7 @@ _For complete list, check my Google Scholar Profile_
 <div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework</div><div style="margin-top : 10px"><b>Prateek Chanda and Susanta Chakraborty</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Machine Learning for Operations Research (ML4OR)</b></div>
-<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
