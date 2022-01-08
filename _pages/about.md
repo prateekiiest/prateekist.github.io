@@ -66,7 +66,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="font-style: italic">Reaching out : Towards a sustainable allocation strategy between users and therapists
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>NeurIPS workshop on Machine Learning in Public Health</b></div>
-<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Poster</a></div>
 </div>
 </div>
 
