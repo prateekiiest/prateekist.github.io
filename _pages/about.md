@@ -26,8 +26,10 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
 
 
+
 News
 ------
+
 
 - **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
@@ -38,12 +40,13 @@ News
 - **[16/8/2021]** Selected as a mentee under AI for Science @NeurIPs workshop to work with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/), Indian Statistical Institute.
 - **[12/7/2021]** Work on **MindNotes** (our work at Microsoft Research on building a socio-technical mental health platform) accepted at CSCW [*Demo Paper*]
 - **[24/4/2021]** Invited to be a Program Committe member for [Outlier Detection and Description Workshop](https://oddworkshop.github.io/) @KDD.
-
+  
 
 Publications
 ------
 
-_For complete list, check my Google Scholar Profile_
+
+You can also find my articles on <u><a href="https://scholar.google.co.in/citations?user=2CiQLkYAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.</u>
 
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
@@ -51,7 +54,7 @@ _For complete list, check my Google Scholar Profile_
 <div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework</div><div style="margin-top : 10px"><b>Prateek Chanda and Susanta Chakraborty</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Machine Learning for Operations Research (ML4OR)</b></div>
-<div style="margin-top : 6px"><a href="/files/NeurIPS_2021_MLH.pdf" style="padding-right:20px">PDF</a><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
@@ -200,10 +203,28 @@ Technical Reports
 </div>
 </div>
 
+--------------------------
+
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<div style="text-align: left; margin-left:12px; width: 100%">
+<div style="font-style: italic; font-family : Helvetica"><b>Recommendation Strategies as Intervention in a Mental Health Platform</b>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>,Amit Sharma</div>
+<iframe src="https://microsoftapc-my.sharepoint.com/personal/v-pratec_microsoft_com/_layouts/15/Doc.aspx?sourcedoc={603f1b15-1bb9-4f7b-8b8d-436c9358d264}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="450px" height="321px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
+</div>
 
 
 
 
+--------------------------
+
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<div style="text-align: left; margin-left:12px; width: 100%">
+<div style="font-style: italic; font-family : Helvetica"><b>Community Detection in Static & Dynamic Networks using Game Theory </b>
+</div><div style="margin-top : 10px"><b>Prateek Chanda</b>, Malay Kule, Susanta Chakraborty</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyT5O1of5TjM3PlI07tdeB70dmnMGPOro1XZb5lBsi2clujGqmeaZRWl9WKAEkSCtOie0YjM8BaHWy/embed?start=true&loop=false&delayms=3000" frameborder="0" width="520" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+</div>
 
 
 
@@ -214,6 +235,6 @@ Technical Reports
 For more info
 ------
 
-Check out my [CV](/files/Prateek_Chanda_Resume_website.pdf) or [mail to me](prateekkol21@gmail.com)
+Check out my [CV](/files/Prateek_Chanda_Resume_website.pdf) or [mail to me](mailto:prateekkol21@gmail.com)
 
 -----
