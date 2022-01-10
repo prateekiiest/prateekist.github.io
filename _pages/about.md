@@ -210,7 +210,7 @@ Technical Reports
 <div style="text-align: left; margin-left:12px; width: 100%">
 <div style="font-style: italic; font-family : Helvetica"><b>Recommendation Strategies as Intervention in a Mental Health Platform</b>
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>,Amit Sharma</div>
-<iframe src="https://microsoftapc-my.sharepoint.com/personal/v-pratec_microsoft_com/_layouts/15/Doc.aspx?sourcedoc={603f1b15-1bb9-4f7b-8b8d-436c9358d264}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="450px" height="321px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
+<iframe src="https://onedrive.live.com/embed?cid=39900EAD11E4F1DF&amp;resid=39900EAD11E4F1DF%212403&amp;authkey=ACxs07Mjpu_o-k4&amp;em=2&amp;wdAr=1.7777777777777777" width="450px" height="321px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
 </div>
 
 
