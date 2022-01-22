@@ -31,7 +31,9 @@ News
 ------
 
 
-- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
+- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI-22 Workshop on Machine Learning for Operations Research**
+- **[11/12/2021]** Paper on <ins>Robust Deep Reinforcement Learning Control</ins> accepted at **AAAI-22 Workshop on
+Robust Artificial Intelligence System Assurance**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
 - **[30/10/2021]** Paper on *Reaching out : Towards a sustainable allocation strategy between users and therapists* accepted at **Machine Learning in Public Health Workshop @NeurIPS**
 - **[15/9/2021]** Selected for **AISTATS 2022 Mentorship Program**. Working with [Dr. Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/) from Microsoft Research NYC on <ins>Anomaly Detection in Large Data Streams</ins> using Game Theory and RL.
