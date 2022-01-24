@@ -30,8 +30,10 @@ I have also been fortunate to work as a <ins>Summer of Code</ins> student under 
 News
 ------
 
-
-- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI Workshop on Machine Learning for Operations Research 2021**
+- **[16/01/2022]** Paper on Large Scale Anomaly Detection accepted at PAKDD.
+- **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI-22 Workshop on Machine Learning for Operations Research**
+- **[11/12/2021]** Paper on <ins>Robust Deep Reinforcement Learning Control</ins> accepted at **AAAI-22 Workshop on
+Robust Artificial Intelligence System Assurance**
 - **[2/11/2021]** Acting as a <ins>Reviewer</ins> for **AISTATS 2022**
 - **[30/10/2021]** Paper on *Reaching out : Towards a sustainable allocation strategy between users and therapists* accepted at **Machine Learning in Public Health Workshop @NeurIPS**
 - **[15/9/2021]** Selected for **AISTATS 2022 Mentorship Program**. Working with [Dr. Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/) from Microsoft Research NYC on <ins>Anomaly Detection in Large Data Streams</ins> using Game Theory and RL.
@@ -101,7 +103,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <img src="/images/wm_learning.png" alt="drawing" style="width: 300px; height: 150px;"/>
 <div style="text-align: left; margin-left:12px; width: 420px">
 <div style="font-style: italic">Does the Relationship Between Modules Facilitate in Predicting System Anomaly?
-</div><div style="margin-top : 10px">Harsh Borse*, <b>Prateek Chanda*</b>, Paromita Dutta, Soumik Sinha, Mainack Mondal, Bivas Mitra</div><div style="margin-top : 10px"><ins>Under Review</ins>, <b>PAKDD 2022 (Full Paper)</b></div>
+</div><div style="margin-top : 10px">Harsh Borse*, <b>Prateek Chanda*</b>, Paromita Dutta, Soumik Sinha, Mainack Mondal, Bivas Mitra</div><div style="margin-top : 10px"><ins>Accepted</ins>, <b>PAKDD 2022 (Full Paper)</b></div>
 Mitra<div style="margin-top : 10px"><ins>To present</ins>, <b>NeurIPS workshop ML for Systems</b></div>
 <div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
 </div>
