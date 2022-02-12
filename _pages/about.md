@@ -237,14 +237,14 @@ Technical Reports
 
 Microsoft Research India
 
-- Amit Sharma
-- Vageesh Chandramouli
-- Aadirupa Saha  
+- [Amit Sharma](https://www.microsoft.com/en-us/research/people/amshar/) (*Principal Researcher at Microsoft Research India*)
+- [Vageesh Chandramouli](https://www.microsoft.com/en-us/research/people/vachand/)(*Senior Research SDE*)
+- [Aadirupa Saha](https://www.microsoft.com/en-us/research/people/aasa/)(*PostDoctoral Researcher at Microsoft Research*)  
 
 Indian Statistical Institute
 
-- Malay Bhattacharyya
-- Ashish Ghosh
+- [Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/)(*Assistant Professor at Indian Statistical Institute*)
+- [Ashish Ghosh](https://www.isical.ac.in/~ash/)(*Professor & former Head, Machine Intelligence Unit at Indian Statistical Institute*)
 
 ![](../images/kudoboard_1644572845093.jpg)
 
