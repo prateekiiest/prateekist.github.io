@@ -94,7 +94,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="font-style: italic">A Sketch Based Game Theoretic Approach to Detect Anomalous Dense Sub-Communities in Large Data Streams
 </div><div style="margin-top : 10px"><b>Prateek Chanda</b>,  Aadirupa Saha</div>
 <div style="margin-top : 10px"><i>Under Review</i>, <b>AISTATS 2022 (Full Paper)</b></div>
-<div style="margin-top : 6px"><a href="" style="padding-right:20px">PDF</a><a href="" style="padding-right:20px">Slides</a></div>
+<div style="margin-top : 6px"><a href="https://arxiv.org/abs/2111.15525" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
