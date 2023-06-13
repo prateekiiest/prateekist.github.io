@@ -10,11 +10,23 @@ redirect_from:
 
 - **Bayesian Coreset based Personalized Federated Learning** (*Advisor - Prof. Ganesh Ramakrishnan, IIT Bombay*)
 
+As part of [CS 769 : Optimization in Machine Learning](https://www.cse.iitb.ac.in/~ganesh/cs769/), I worked with Prof. Ganesh on combining coreset based subset selection strategies for a personalized federated learning setting where each client only trains on a subset of their individual data, resulting in about near-optimal performance had they trained on their individual original data.
+
+[Code](https://github.com/prateekiiest/BayesianCoreset-FederatedLearning)
+
+Representative Papers: https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
+
+
 - **SketchSimRank - SimRank for Graph Streams (Theoretical Guarantees)** (*Advisor - Prof. Soumen Chakrabarti, IIT Bombay*)
+
+
 
 
 - **Recommendation Systems towards better medical predictions** (*Advisor - Amit Sharma, Microsoft Research India*)
 
+Developed user feature embeddings based on user responses logging and telemetry logging for building recommendation models for recommending different therapeutic activities and sections of the app as interventions to the user.
+
+Started with initial collaborative and content based filtering for recommendations, and further developed a causal recommendation model where each micro-intervention was indicated as treatment to the user.
 
 - **Real Time Anomaly Detection in Enterprise environment - NetApp Collaboration**
 (*Advisor - Niloy Ganguly, Bivas Mitra, Mainack Mondal, Indian Institute of Technology, Kharagpur*)
