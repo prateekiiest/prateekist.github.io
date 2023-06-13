@@ -8,7 +8,12 @@ redirect_from:
 ---
 **Research/Industry projects**
 
-- **MindNotes- Mobile Application to better** (*Advisor - Amit Sharma, Microsoft Research India*)
+- **Bayesian Coreset based Personalized Federated Learning** (*Advisor - Prof. Ganesh Ramakrishnan, IIT Bombay*)
+
+- **SketchSimRank - SimRank for Graph Streams (Theoretical Guarantees)** (*Advisor - Prof. Soumen Chakrabarti, IIT Bombay*)
+
+
+- **Recommendation Systems towards better medical predictions** (*Advisor - Amit Sharma, Microsoft Research India*)
 
 
 - **Real Time Anomaly Detection in Enterprise environment - NetApp Collaboration**
