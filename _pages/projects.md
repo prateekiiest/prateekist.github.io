@@ -14,11 +14,17 @@ As part of [CS 769 : Optimization in Machine Learning](https://www.cse.iitb.ac.i
 
 [Code](https://github.com/prateekiiest/BayesianCoreset-FederatedLearning)
 
-Representative Papers: https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
+Representative Papers: [PFedBayes](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)
 
 
 - **SketchSimRank - SimRank for Graph Streams (Theoretical Guarantees)** (*Advisor - Prof. Soumen Chakrabarti, IIT Bombay*)
 
+Original SimRank proposed for static graphs computes the similarity ranking in a recursive fashion.
+
+Here we propose simrank with approximate guarantees for graph streams (dynamic graphs) using only fixed space (hashing)
+**More to be updated in description**
+
+[Code](https://github.com/prateekiiest/sketchSimRank)
 
 
 
