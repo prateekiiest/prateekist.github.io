@@ -73,7 +73,6 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Robust Deep Reinforcement Learning Control framework</div><div style="margin-top : 10px"><b>Prateek Chanda</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Robust Artificial Intelligence System Assurance</b></div>
-<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
 </div>
 </div>
 
