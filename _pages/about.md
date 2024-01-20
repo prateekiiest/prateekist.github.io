@@ -16,22 +16,15 @@ Previously I worked for 2.5 years at **Microsoft Research India** with [Dr. Amit
 My research interests lie in **optimization in machine learning** with a focus towards **Social Computing** and solving **optimization problems** in discrete structures. 
 My other broad interests include <ins>Data Mining</ins> and <ins>Machine Learning</ins> with applications in building **interpretable ML models** and **Recommender Systems**. 
 
-### Past Life
-
-Previously I have been fortunate to work with **Complex Network Research Group at IIT Kharagpur** with Dr. [Niloy Ganguly](https://scholar.google.com/citations?user=hCbFmUUAAAAJ&hl=en) and Dr. [Bivas Mitra](https://scholar.google.co.in/citations?user=mQ57itUAAAAJ&hl=en) as a research assistant and with Dr. [Ashish Ghosh](https://www.isical.ac.in/~ash/) at the **Indian Statistical Institute**. I did my undergraduate in Bachelors in Computer Science from **[Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in/)** where I did my undergraduate thesis on <ins>Game Theoretic based Community Detection</ins> with **[Prof. Susanta Chakraborty](https://scholar.google.com/citations?user=ADJHcp0ar4sC&hl=en)** and **[Prof. Malay Kule](https://scholar.google.com/citations?user=TgQJmU0AAAAJ&hl=en)**
-
-I have also been fortunate to work as a <ins>Summer of Code</ins> student under Google Open Source Program working on SunPy with a team of researchers and engineers at <ins>NASA Goddard Space Flight Center</ins>. *See below for publications*.
 
 
-<ins>Side Note</ins> : My Erdős Number = **5**.
-
-
-[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBKFByYXRlZWsgQ2hhbmRhKSAtLT4gfE9uZXwgQihBc2l0IEtyLiBEYXMpXG4gICAgQSAtLT4gfE9uZXwgRyhSdXNzZWxsIEouIEhld2V0dClcbiAgICBCIC0tPiB8VHdvfCBDKEMuQS4gTXVydGh5KVxuICAgIEMgLS0-fFRocmVlfCBEKEFtaXRhdmEgQmhhdHRhY2hhcnlhKVxuICAgIEQgLS0-fEZvdXJ8IEUoTmF2aW4gTWFkaGF2cHJhc2FkIFNpbmdoaSlcbiAgICBFIC0tPnxGaXZlfCBGKFBhdWwgRXJkxZFzKilcbiAgICBHIC0tPiB8VHdvfCBIKE1pY2hhZWwgVC4gSGVhdGgpXG4gICAgSCAtLT4gfFRocmVlfCBJKEpvaG4gUnVzc2VsbCBHaWxiZXJ0KVxuICAgIEkgLS0-IHxGb3VyfCBKKFJvZ2VyIENoYXJsZXMgRW50cmluZ2VyKVxuICAgIEogLS0-fEZpdmV8IEYoUGF1bCBFcmTFkXMqKVxuXG4gICIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)
+<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)
 
 
 
 News
 ------
+- 1 Paper **accepted** to <span style="color:red">**ICLR 2024**</span>. 
 
 - **[28/01/2023]** Attending [Google Research Week](https://sites.google.com/view/researchweek2023/home) at Bangalore
 - **[31/08/2022]** Awarded the prestiguous **Prime Minister Research Fellowship** as a Direct Fellow *Cycle 9*
