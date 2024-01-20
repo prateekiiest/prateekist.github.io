@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Prateek, currently a PhD student at CSE Department, IIT Bombay, (generously funded by the **Prime Minister Research Fellowship**).
 
-I had a 2.5 year stint at **Microsoft Research India** with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Vageesh Chandramouli](https://www.microsoft.com/en-us/research/people/vachand/) where I worked on building recommendation systems using causal inference  as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). During this time I also collaborated with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/) at *Indian Statistical Institute* w.r.t to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> and with [Dr. Bryan Hooi](https://bhooi.github.io/)'s lab at NUS focusing on streaming algorithms and heavy-hitters. 
+I had a brief 2.5 year stint at **Microsoft Research India** with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Vageesh Chandramouli](https://www.microsoft.com/en-us/research/people/vachand/) where I worked on building recommendation systems using causal inference  as part of SCAI (<ins>Center for Societal impact through Cloud and Artificial Intelligence</ins>). During this time I also collaborated with [Prof. Malay Bhattacharyya](https://www.isical.ac.in/~malaybhattacharyya/) at *Indian Statistical Institute* w.r.t to <ins>Anomaly Detection in Large Graphs using Streaming Sketches</ins> and with [Dr. Bryan Hooi](https://bhooi.github.io/)'s lab at NUS focusing on streaming algorithms and heavy-hitters. 
 
 
 My research interests lie in **optimization problems in machine learning theory**. 
