@@ -8,15 +8,6 @@ redirect_from:
 ---
 **Research/Industry projects**
 
-- **Bayesian Coreset based Personalized Federated Learning** (*Advisor - Prof. Ganesh Ramakrishnan, IIT Bombay*)
-
-As part of [CS 769 : Optimization in Machine Learning](https://www.cse.iitb.ac.in/~ganesh/cs769/), I worked with Prof. Ganesh on combining coreset based subset selection strategies for a personalized federated learning setting where each client only trains on a subset of their individual data, resulting in about near-optimal performance had they trained on their individual original data.
-
-[Code](https://github.com/prateekiiest/BayesianCoreset-FederatedLearning)
-
-Representative Papers: [PFedBayes](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)
-
-
 - **SketchSimRank - SimRank for Graph Streams (Theoretical Guarantees)** (*Advisor - Prof. Soumen Chakrabarti, IIT Bombay*)
 
 Original SimRank proposed for static graphs computes the similarity ranking in a recursive fashion.
