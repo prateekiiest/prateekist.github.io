@@ -17,7 +17,7 @@ My research interests lie in **optimization problems in machine learning theory*
 
 
 
-<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)
+<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)  (Ugh!!, who cares anyways)
 
 
 
