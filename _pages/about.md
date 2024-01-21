@@ -17,7 +17,7 @@ My research interests lie in **optimization problems in machine learning theory*
 
 
 
-<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)  *Ugh!! Eyeroll, who cares anyways*
+<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)  --- *Ugh!! Eyeroll, who cares anyways*
 
 
 
@@ -26,7 +26,7 @@ News
 - **[15/02/2023]** 1 Paper **accepted** to <span style="color:red">**ICLR 2024**</span>. (More details soon)
 - **[28/01/2023]** Attending [Google Research Week](https://sites.google.com/view/researchweek2023/home) at Bangalore
 - **[31/08/2022]** Awarded the prestiguous **Prime Minister Research Fellowship** as a Direct Fellow *Cycle 9*
-- **[25/07/2022]** Joined IIT Bombay as a PhD Student. Leaving offer at UMass CS
+- **[25/07/2022]** Joined **IIT Bombay** as a PhD Student.  *Leaving phd offer at UMass Amherst CS*
 - **[17/12/2021]** <ins><a href="https://openreview.net/forum?id=xUBHq0OrgeR&noteId=opF2ZXN4DCJ">Bachelor Thesis Work</a></ins> accepted at **AAAI-22 Workshop on Machine Learning for Operations Research**
 - **[11/12/2021]** Paper on <ins>Robust Deep Reinforcement Learning Control</ins> accepted at **AAAI-22 Workshop on
 Robust Artificial Intelligence System Assurance**
