@@ -16,11 +16,6 @@ I had a brief 2.5 year stint at **Microsoft Research India** with [Dr. Amit Shar
 My research interests lie in **optimization problems in machine learning theory**. 
 
 
-
-<ins>Side Note</ins> : My Erdős Number = **4**. (Updated from 5 last year)  --- *Ugh!! Eyeroll, who cares anyways*
-
-
-
 News
 ------
 - **[15/01/2024]** 1 Paper **accepted** to <span style="color:red">**ICLR 2024**</span>. (More details soon)
