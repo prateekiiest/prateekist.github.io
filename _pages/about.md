@@ -18,7 +18,7 @@ My research interests lie in **optimization problems in machine learning theory*
 
 News
 ------
-- **[15/01/2024]** 1 Paper **accepted** to <span style="color:red">**ICLR 2024**</span>. (More details soon)
+- **[15/01/2024]** 1 [Paper](https://openreview.net/forum?id=uz7d2N2zul) on Coreset Optimization **accepted** to <span style="color:red">**ICLR 2024**</span>. (More details soon)
 - **[28/01/2023]** Attending [Google Research Week](https://sites.google.com/view/researchweek2023/home) at Bangalore
 - **[31/08/2022]** Awarded the prestiguous **Prime Minister Research Fellowship** as a Direct Fellow *Cycle 9*
 - **[25/07/2022]** Joined **IIT Bombay** as a PhD Student.  *Leaving final offer at UMass Amherst*
