@@ -18,7 +18,7 @@ My research interests lie in **optimization problems in machine learning theory*
 
 News
 ------
-- Received Travel Grant from ICLR
+- **[12/03/2024]** Received Travel Grant from ICLR
 - **[15/01/2024]** Paper on [Bayesian Coreset Optimization](https://openreview.net/forum?id=uz7d2N2zul) **accepted** to <span style="color:red">**ICLR 2024**</span>.
 - **[28/01/2023]** Attending [Google Research Week](https://sites.google.com/view/researchweek2023/home) at Bangalore
 - **[31/08/2022]** Awarded the prestiguous **Prime Minister Research Fellowship** as a Direct Fellow *Cycle 9*
