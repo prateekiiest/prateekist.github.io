@@ -44,7 +44,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 
 
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
-<img src="/images/community_detection_graph.png" alt="drawing" style="width: 280px; height: 150px;"/>
+<img src="/images/BCoreset.png" alt="drawing" style="width: 280px; height: 150px;"/>
 <div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Bayesian Coreset Optimization for Personalized Federated Learning
 </div><div style="margin-top : 10px"><b>Prateek Chanda, Shrey Modi, Ganesh Ramakrishnan</b></div>
