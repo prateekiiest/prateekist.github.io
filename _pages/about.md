@@ -46,6 +46,19 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
 <img src="/images/community_detection_graph.png" alt="drawing" style="width: 280px; height: 150px;"/>
 <div style="text-align: left; margin-left:22px; width: 420px">
+<div style="font-style: italic">Bayesian Coreset Optimization for Personalized Federated Learning
+</div><div style="margin-top : 10px"><b>Prateek Chanda, Shrey Modi, Ganesh Ramakrishnan</b></div>
+<div style="margin-top : 10px"><ins>Accepted</ins> <b>The Twelfth International Conference on Learning Representations (ICLR)(Awarded ICLR Travel Grant)
+</b></div>
+<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
+</div>
+</div>
+
+
+
+<div style="display: flex; flex-flow: row wrap; margin-bottom:40px">
+<img src="/images/community_detection_graph.png" alt="drawing" style="width: 280px; height: 150px;"/>
+<div style="text-align: left; margin-left:22px; width: 420px">
 <div style="font-style: italic">Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework</div><div style="margin-top : 10px"><b>Prateek Chanda and Susanta Chakraborty</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>AAAI-22 Workshop on Machine Learning for Operations Research (ML4OR)</b></div>
 <div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=xUBHq0OrgeR" style="padding-right:20px">PDF</a></div>
