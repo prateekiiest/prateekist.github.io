@@ -50,7 +50,10 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 </div><div style="margin-top : 10px"><b>Prateek Chanda, Shrey Modi, Ganesh Ramakrishnan</b></div>
 <div style="margin-top : 10px"><ins>Accepted</ins> <b>The Twelfth International Conference on Learning Representations (ICLR)(<span style="color:red">Awarded ICLR Travel Grant</span>.)
 </b></div>
-<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=uz7d2N2zul" style="padding-right:20px">PDF</a></div>
+<div style="margin-top : 6px"><a href="https://openreview.net/pdf?id=uz7d2N2zul" style="padding-right:20px">Paper</a>
+</div>
+<div style="margin-top : 6px"><a href="https://coresetfederatedlearning.github.io/" style="padding-right:20px">Project Website</a>
+</div>
 </div>
 </div>
 
